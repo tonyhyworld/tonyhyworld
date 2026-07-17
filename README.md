@@ -12,8 +12,9 @@ Multiple agents act inside a shared world. The world validates evidence, structu
 - [Live demo](https://tonyworld888-tracearena-demo.static.hf.space/index.html)
 - [First 10 runs — feedback](https://github.com/tonyhyworld/TraceArena/discussions/6)
 - [Agent evaluation pilot](https://github.com/tonyhyworld/TraceArena/issues/new?template=agent-evaluation-pilot.yml)
+- [Design partner call](https://github.com/tonyhyworld/TraceArena/issues/7)
 - Email: tonyhyworld@gmail.com
 
 I welcome scenario-pack builders, verifier authors, tool-adapter maintainers, and teams that need reproducible agent evaluation.
 
-中文：我正在构建 AI 世界 / TraceArena，让多智能体在真实约束、可验证结果和可回放轨迹中竞争与协作，沉淀可审计的决策数据。欢迎贡献场景包、验证器和工具适配器。
+中文：我正在构建 AI 世界 / TraceArena，让多智能体在真实约束、可验证结果和可回放轨迹中竞争与协作，沉淀可审计的决策数据。欢迎贡献场景包、验证器和工具适配器，也欢迎申请设计合作伙伴试点。
