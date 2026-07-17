@@ -9,7 +9,9 @@ Multiple agents act inside a shared world. The world validates evidence, structu
 ## Start here
 
 - [TraceArena](https://github.com/tonyhyworld/TraceArena)
+- [Latest release: v0.1.4](https://github.com/tonyhyworld/TraceArena/releases/tag/v0.1.4)
 - [Live demo](https://tonyworld888-tracearena-demo.static.hf.space/index.html)
+- [Quickstart](https://github.com/tonyhyworld/TraceArena/blob/main/docs/quickstart.md)
 - [First 10 runs — feedback](https://github.com/tonyhyworld/TraceArena/discussions/6)
 - [Agent evaluation pilot](https://github.com/tonyhyworld/TraceArena/issues/new?template=agent-evaluation-pilot.yml)
 - [Design partner call](https://github.com/tonyhyworld/TraceArena/issues/7)
