@@ -11,12 +11,11 @@ This is not a training-data repository or a chatbot wrapper. Replayable traces a
 ## Start here
 
 - [TraceArena](https://github.com/tonyhyworld/TraceArena)
-- [Latest release: v0.1.7](https://github.com/tonyhyworld/TraceArena/releases/tag/v0.1.7)
+- [Latest release: v0.1.9](https://github.com/tonyhyworld/TraceArena/releases/tag/v0.1.9)
 - [Live demo](https://tonyworld888-tracearena-demo.static.hf.space/index.html)
 - [Quickstart](https://github.com/tonyhyworld/TraceArena/blob/main/docs/quickstart.md)
-- [Positioning announcement](https://github.com/tonyhyworld/TraceArena/discussions/12)
-- [Clean-room replay verification](https://github.com/tonyhyworld/TraceArena/discussions/13)
-- [First 10 runs — feedback](https://github.com/tonyhyworld/TraceArena/discussions/6)
+- [Physical World OS announcement](https://github.com/tonyhyworld/TraceArena/discussions/12)
+- [Scenario-pack contribution call](https://github.com/tonyhyworld/TraceArena/issues/2)
 - [Agent evaluation pilot](https://github.com/tonyhyworld/TraceArena/issues/new?template=agent-evaluation-pilot.yml)
 - [Design partner call](https://github.com/tonyhyworld/TraceArena/issues/7)
 - Email: tonyhyworld@gmail.com
